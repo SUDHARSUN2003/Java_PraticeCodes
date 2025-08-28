@@ -1,0 +1,189 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "DuplicateChar",
+      "request": "launch",
+      "mainClass": "RandomQuestions.Random.practice.Strings.DuplicateChar",
+      "projectName": "Java Coding_22703ab5"
+    },
+    {
+      "type": "java",
+      "name": "HighestRepeatedWord",
+      "request": "launch",
+      "mainClass": "RandomQuestions.Random.practice.Strings.HighestRepeatedWord",
+      "projectName": "Java Coding_22703ab5"
+    },
+    {
+      "type": "java",
+      "name": "LargestWord",
+      "request": "launch",
+      "mainClass": "RandomQuestions.Random.practice.Strings.LargestWord",
+      "projectName": "Java Coding_22703ab5"
+    },
+    {
+      "type": "java",
+      "name": "ReverseEachWord",
+      "request": "launch",
+      "mainClass": "RandomQuestions.Random.practice.Strings.ReverseEachWord",
+      "projectName": "Java Coding_22703ab5"
+    },
+    {
+      "type": "java",
+      "name": "StringMultipler2",
+      "request": "launch",
+      "mainClass": "RandomQuestions.Random.practice.Strings.StringMultipler2",
+      "projectName": "Java Coding_22703ab5"
+    },
+    {
+      "type": "java",
+      "name": "SwapString",
+      "request": "launch",
+      "mainClass": "RandomQuestions.Random.practice.Strings.SwapString",
+      "projectName": "Java Coding_22703ab5"
+    },
+    {
+      "type": "java",
+      "name": "TwiceLetter",
+      "request": "launch",
+      "mainClass": "RandomQuestions.Random.practice.Strings.TwiceLetter",
+      "projectName": "Java Coding_22703ab5"
+    },
+    {
+      "type": "java",
+      "name": "SynchronizedExample",
+      "request": "launch",
+      "mainClass": "MultiThreading.SynchronizedExample",
+      "projectName": "Java Coding_22703ab5"
+    },
+    {
+      "type": "java",
+      "name": "RunnableExample",
+      "request": "launch",
+      "mainClass": "MultiThreading.RunnableExample",
+      "projectName": "Java Coding_22703ab5"
+    },
+    {
+      "type": "java",
+      "name": "sridhar",
+      "request": "launch",
+      "mainClass": "sridhar",
+      "projectName": "Java Coding_22703ab5"
+    },
+    {
+      "type": "java",
+      "name": "susan",
+      "request": "launch",
+      "mainClass": "susan",
+      "projectName": "Java Coding_22703ab5"
+    },
+    {
+      "type": "java",
+      "name": "parseInt",
+      "request": "launch",
+      "mainClass": "RandomQuestions.parseInt",
+      "projectName": "Java Coding_22703ab5"
+    },
+    {
+      "type": "java",
+      "name": "code1",
+      "request": "launch",
+      "mainClass": "code1",
+      "projectName": "Java Coding_22703ab5"
+    },
+    {
+      "type": "java",
+      "name": "code1",
+      "request": "launch",
+      "mainClass": "RandomQuestions.code1",
+      "projectName": "Java Coding_22703ab5"
+    },
+    {
+      "type": "java",
+      "name": "Dog",
+      "request": "launch",
+      "mainClass": "AbstractClass.Dog",
+      "projectName": "Java Coding_22703ab5"
+    },
+    {
+      "type": "java",
+      "name": "pattern1",
+      "request": "launch",
+      "mainClass": "pattern1",
+      "projectName": "Java Coding_22703ab5"
+    },
+    {
+      "type": "java",
+      "name": "main",
+      "request": "launch",
+      "mainClass": "Inheritance.main",
+      "projectName": "Java Coding_22703ab5"
+    },
+    {
+      "type": "java",
+      "name": "mindis",
+      "request": "launch",
+      "mainClass": "RandomQuestions.mindis",
+      "projectName": "Java Coding_22703ab5"
+    },
+    {
+      "name": "Attach to Chrome",
+      "port": 9222,
+      "request": "attach",
+      "type": "chrome",
+      "webRoot": "${workspaceFolder}"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "BubbleSort",
+      "request": "launch",
+      "mainClass": "BubbleSort",
+      "projectName": "Java Coding_22703ab5"
+    },
+    {
+      "type": "java",
+      "name": "Mai",
+      "request": "launch",
+      "mainClass": "Mai",
+      "projectName": "Java Coding_22703ab5"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "Java Coding_22703ab5"
+    },
+    {
+      "type": "java",
+      "name": "PairWithGivenSum",
+      "request": "launch",
+      "mainClass": "PairWithGivenSum",
+      "projectName": "Java Coding_22703ab5"
+    },
+    {
+      "type": "java",
+      "name": "SelectionSort",
+      "request": "launch",
+      "mainClass": "SelectionSort",
+      "projectName": "Java Coding_22703ab5"
+    },
+    {
+      "type": "java",
+      "name": "qns",
+      "request": "launch",
+      "mainClass": "qns",
+      "projectName": "Java Coding_22703ab5"
+    }
+  ]
+}
